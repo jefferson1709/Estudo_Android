@@ -1,16 +1,5 @@
 # Estudo_Android_Java
 ...🚧  Em construção  🚧...
-
-<h2 >Aula Android(Java) </h2>
-
-
-
-<hr />
-<h2 >Projeto Android(Java) </h2>
-
-
-
-<hr />
  
 ```
 Dentro das pastas tem exemplos dos projetos
